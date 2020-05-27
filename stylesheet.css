@@ -108,3 +108,15 @@ body {
   display: block;
   opacity: 0.3;
 }
+
+@media all and (max-width: 1000px) {
+  .menu {
+    display: none;
+  }
+}
+
+@media all and (max-width: 670px) {
+  .menu {
+    display: block;
+  }
+}
