@@ -78,7 +78,7 @@ body {
           transform: rotate(45deg);
 }
 #drawer-content {
-  overflow: auto;
+  overflow: hidden;
   position: fixed;
   top: 0;
   right: 0;
