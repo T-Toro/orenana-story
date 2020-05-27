@@ -6,6 +6,11 @@ body {
   margin: 0;
   font-family:"Noto Serif JP";
 }
+
+.menu {
+  float: right;
+}
+
 #drawer-checkbox {
   display: none;
 }
