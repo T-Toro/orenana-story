@@ -59,6 +59,10 @@ a {
 	color: inherit;
 }
 
+.co_cont {
+	display:none;
+}
+
 .cp_offcm01 {
 	position: absolute;
 	top: 20px;
@@ -129,7 +133,11 @@ a {
 }
 
 @media all and (max-width: 670px) {
-  .header-right  {
-    dispaly: none;
-  }
+	.header-right  {
+	dispaly: none;
+	}
+	
+	.cp_cont {
+	display: block;
+	}
 }
