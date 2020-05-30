@@ -7,6 +7,43 @@ body {
   font-family:"Noto Serif JP";
 }
 
+header {
+  height: 65px;
+  width: 100%;  
+  background-color: #e0ffff;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 124px;
+  margin-top: 20px;
+}
+
+.header-left {
+  float: left;
+}
+  
+.header-right {
+  float: right;
+  magin-right: -25px;
+}
+  
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: black;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+  
+.header-right a:hover{
+  background-color: #e6ffff;
+}
+
+
 *, *:before, *:after {
 	padding: 0;
 	margin: 0;
@@ -89,4 +126,10 @@ a {
 }
 .cp_offcm01 #cp_toggle01:checked ~ label::before {
 	content: '\f00d';
+}
+
+@media all and (max-width: 670px) {
+  .header-right  {
+    dispaly: none;
+  }
 }
