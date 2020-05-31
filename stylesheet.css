@@ -63,6 +63,7 @@ h2 {
 .story-content p {
 	font-size: 25px;
 	line-height: 2em;
+	z-index: 30;
 }
 
 span {
@@ -107,6 +108,8 @@ span {
 	width: 250px;
 	height: 250px;
 	overflow: hidden;
+	z-index: 10;
+	
 }
 
 footer a {
