@@ -59,17 +59,22 @@ header {
 }
 
 .purple {
-	font-size: 18px;
+	font-size: 19px;
 	color: #a59aca;
 }
 
-.red {
-	font-size: 18px;
+.bule {
+	font-size: 19px;
+	color: #2ca9e1;
+}
+
+.rose {
+	font-size: 19px;
 	color: #e9546b;
 }
 
 .big {
-	font-size: 18px;
+	font-size: 19px;
 }
 
 footer a {
