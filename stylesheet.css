@@ -68,6 +68,29 @@ header {
 	color: #2ca9e1;
 }
 
+.rainbow {
+	font-size: 20px;
+	color: #ffec47:
+	background: -webkit-linear-gradient(0dig,#f4b3c2,#ffec47,#e60033,#884898):
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.green {
+	font-size: 20px;
+	color: #47885e;
+}
+
+.indigo {
+	font-size: 20px;
+	color: #1e50a2;
+}
+
+.orange {
+	font-size: 20px;
+	color: #f08300;
+}
+
 .rose {
 	font-size: 20px;
 	color: #e9546b;
