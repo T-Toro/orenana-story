@@ -59,7 +59,7 @@ a {
 	color: inherit;
 }
 
-.co_cont {
+.cp_cont {
 	display:none;
 }
 
@@ -133,8 +133,8 @@ a {
 }
 
 @media all and (max-width: 670px) {
-	.header-right  {
-	dispaly: none;
+	.header-right {
+	display: none;
 	}
 	
 	.cp_cont {
