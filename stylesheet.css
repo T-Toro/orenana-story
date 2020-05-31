@@ -43,12 +43,12 @@ header {
   background-color: #e6ffff;
 }
 
-.story-content {
-	text-align: center;
+.heading-wrapper {
+	margin-top: 70px;
 }
 
-.story-content h2 {
-	margin-top: 70px;
+.story-content {
+	text-align: center;
 }
 
 footer a {
