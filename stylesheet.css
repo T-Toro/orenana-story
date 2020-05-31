@@ -51,7 +51,7 @@ header {
 	text-align: center;
 }
 
-.heading-wrapper h2, .story-content {
+.heading-wrapper h1, .story-content {
 	position: relative;
 	z-index: 8;
 }
