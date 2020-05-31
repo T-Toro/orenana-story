@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family:"Noto Serif JP";
+  background-color: #ebf6f7;
 }
 
 header {
@@ -50,10 +51,9 @@ header {
 	text-align: center;
 }
 
-.heading-wrapper, .story-wrapper {
+.heading-wrapper h2, .story-content {
 	position: relative;
 	z-index: 8;
-	background-color: #ebf6f7;
 }
 
 .story-content {
