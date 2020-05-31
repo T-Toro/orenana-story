@@ -63,15 +63,15 @@ header {
 	color: #a59aca;
 }
 
-.bule {
+.blue {
 	font-size: 20px;
 	color: #2ca9e1;
 }
 
 .rainbow {
 	font-size: 20px;
-	color: #ffec47:
-	background: -webkit-linear-gradient(0dig,#f4b3c2,#ffec47,#e60033,#884898):
+	color: #ffec47;
+	background: -webkit-linear-gradient(0dig,#f4b3c2,#ffec47,#e60033,#884898);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
@@ -94,10 +94,6 @@ header {
 .rose {
 	font-size: 20px;
 	color: #e9546b;
-}
-
-.big {
-	font-size: 20px;
 }
 
 footer a {
