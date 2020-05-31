@@ -44,11 +44,31 @@ header {
 }
 
 .heading-wrapper {
+	font-size: 30px;
 	margin-top: 70px;
+	text-align: center;
 }
 
 .story-content {
 	text-align: center;
+}
+
+.story-content p {
+	font-size: 15px;
+}
+
+.purple {
+	font-size: 25px;
+	font-color: #a59aca;
+}
+
+.red {
+	font-size: 25px;
+	font-color: #e9546b;
+}
+
+.big {
+	font-size: 25px;
 }
 
 footer a {
