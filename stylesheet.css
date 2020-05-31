@@ -50,6 +50,10 @@ header {
 	text-align: center;
 }
 
+.heading-wapper, .story-wapper {
+	background-color: #ebf6f7;
+}
+
 .story-content {
 	position: relative;
 	text-align: center;
