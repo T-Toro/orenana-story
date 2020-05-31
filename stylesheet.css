@@ -43,6 +43,34 @@ header {
   background-color: #e6ffff;
 }
 
+.story-content {
+	text-align: center;
+}
+
+.story-content h2 {
+	margin-top: 70px;
+}
+
+footer a {
+  margin-bottom: 10px;
+}
+
+footer img{
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color: #a0d8ef;
+}
+
 
 *, *:before, *:after {
 	padding: 0;
@@ -130,6 +158,12 @@ a {
 }
 .cp_offcm01 #cp_toggle01:checked ~ label::before {
 	content: '\f00d';
+}
+
+@media all and (max-width: 1000px) {
+	footer {
+		text-align: center;
+	}
 }
 
 @media all and (max-width: 670px) {
