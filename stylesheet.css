@@ -55,20 +55,21 @@ header {
 
 .story-content p {
 	font-size: 15px;
+	line-height: 2em;
 }
 
 .purple {
-	font-size: 25px;
-	font-color: #a59aca;
+	font-size: 20px;
+	color: #a59aca;
 }
 
 .red {
-	font-size: 25px;
-	font-color: #e9546b;
+	font-size: 20px;
+	color: #e9546b;
 }
 
 .big {
-	font-size: 25px;
+	font-size: 20px;
 }
 
 footer a {
