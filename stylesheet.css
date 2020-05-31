@@ -71,7 +71,7 @@ header {
 .rainbow {
 	font-size: 20px;
 	color: #ffec47;
-	background: -webkit-linear-gradient(0deg,#f4b3c2,#ffec47,#e60033,#884898);
+	background: -webkit-linear-gradient(0deg,#ffc0cb,#ffec47,#ea5550,#9b72b0);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
