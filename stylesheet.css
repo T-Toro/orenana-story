@@ -140,6 +140,16 @@ span {
 	right: 2%;	
 }
 
+
+footer {
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #e0ffff;
+  z-index: 9;
+}
+
 footer a {
   margin-bottom: 10px;
 }
@@ -151,17 +161,8 @@ footer img{
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+  margin: 0;
 }
-
-footer {
-  position: relative;
-  padding-top: 20px;
-  padding-bottom: 10px;
-  text-align: center;
-  background-color: #e0ffff;
-  z-index: 9;
-}
-
 
 ol, ul {
 	list-style: none;
